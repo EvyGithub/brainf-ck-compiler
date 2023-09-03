@@ -9,3 +9,7 @@ so I made a brainf*ck compiler in python for fun.
 
 put your brainf*** code into the `code.bf` file.
 then just run the `.py` file. there's a bunch of random `print()` functions for debugging.
+
+## TODOs
+- loops
+- multiple lines of code in the `code.bf` file
