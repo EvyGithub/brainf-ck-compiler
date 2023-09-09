@@ -1,16 +1,10 @@
 # brainf*ck compiler
-
-# BEFORE YOU CONTINUE
-this is a WIP project. All the characters EXCEPT the loops (`[` and `]`) work. DO NOT try using loops. they will not do anything.
-
-so I made a brainf*ck compiler in python for fun.
+a brianf*ck compiler that I made for fun and because I didn't have much else to do
 
 ## instructions
+1. download `.zip`
+2. extract to someplace idc where
+3. put your brainf*ck code into the `code.bf` file
+4. run `compiler.py` and the output will be in the terminal
 
-put your brainf*** code into the `code.bf` file.
-then just run the `.py` file. there's a bunch of random `print()` functions for debugging.
-
-## TODOs
-- loops
-- multiple lines of code in the `code.bf` file
-- outputting a space when the current cell is `0`
+that's literally it
