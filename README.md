@@ -12,3 +12,10 @@ all the code has to be on the first line.
 4. run `compiler.py` (NOT `compiler-OLD.py`) and the output will be in the terminal
 
 that's literally it
+
+## difference between the new and old compiler
+1. no loops (they don't work and just use `pass`)
+2. `for` loop changed to `while`
+
+## lmao
+I used chatGPT| for the loops because I'm too stupid to do it myself
