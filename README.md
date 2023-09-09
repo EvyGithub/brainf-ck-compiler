@@ -1,6 +1,10 @@
 # brainf*ck compiler
 a brianf*ck compiler that I made for fun and because I didn't have much else to do
 
+## only problem
+you can't use multiple lines.
+all the code has to be on the first line.
+
 ## instructions
 1. download `.zip`
 2. extract to someplace idc where
