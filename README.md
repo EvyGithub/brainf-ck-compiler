@@ -1,5 +1,5 @@
-# brainf*ck compiler
-a brianf*ck compiler that I made for fun and because I didn't have much else to do
+# brainf*ck interpreter
+a brianf*ck interpreter that I made for fun and because I didn't have much else to do
 
 ## only problem
 you can't use multiple lines.
@@ -18,4 +18,4 @@ that's literally it
 2. `for` loop changed to `while`
 
 ## lmao
-I used chatGPT| for the loops because I'm too stupid to do it myself
+I used chatGPT for the loops because I'm too stupid to do it myself
